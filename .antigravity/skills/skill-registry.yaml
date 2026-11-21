@@ -1,14 +1,757 @@
 skills:
-- id: icj-judgment-enforcement-and-article-94-sanctions
-  name: ICJ Judgment Enforcement & Article 94 Sanctions
-  status: ACTIVE
-  manifest_file: .antigravity/skills/icj-judgment-enforcement-and-article-94-sanctions.yaml
-- id: historical-intervention-and-canal-concession-audit
-  name: Historical Intervention & Canal Concession Audit
-  status: ACTIVE
-  manifest_file: .antigravity/skills/historical-intervention-and-canal-concession-audit.yaml
-- id: chinan-restitution-roadmap-and-qsf-trust-execution
-  name: Chinan Restitution Roadmap & QSF Trust Execution
-  status: ACTIVE
-  manifest_file: .antigravity/skills/chinan-restitution-roadmap-and-qsf-trust-execution.yaml
-total_skills: 3
+  - id: skill_cn_001
+    name: China Skill 001
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_002
+    name: China Skill 002
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_003
+    name: China Skill 003
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_004
+    name: China Skill 004
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_005
+    name: China Skill 005
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_006
+    name: China Skill 006
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_007
+    name: China Skill 007
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_008
+    name: China Skill 008
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_009
+    name: China Skill 009
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_010
+    name: China Skill 010
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_011
+    name: China Skill 011
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_012
+    name: China Skill 012
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_013
+    name: China Skill 013
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_014
+    name: China Skill 014
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_015
+    name: China Skill 015
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_016
+    name: China Skill 016
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_017
+    name: China Skill 017
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_018
+    name: China Skill 018
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_019
+    name: China Skill 019
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_020
+    name: China Skill 020
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_021
+    name: China Skill 021
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_022
+    name: China Skill 022
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_023
+    name: China Skill 023
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_024
+    name: China Skill 024
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_025
+    name: China Skill 025
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_026
+    name: China Skill 026
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_027
+    name: China Skill 027
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_028
+    name: China Skill 028
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_029
+    name: China Skill 029
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_030
+    name: China Skill 030
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_031
+    name: China Skill 031
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_032
+    name: China Skill 032
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_033
+    name: China Skill 033
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_034
+    name: China Skill 034
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_035
+    name: China Skill 035
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_036
+    name: China Skill 036
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_037
+    name: China Skill 037
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_038
+    name: China Skill 038
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_039
+    name: China Skill 039
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_040
+    name: China Skill 040
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_041
+    name: China Skill 041
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_042
+    name: China Skill 042
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_043
+    name: China Skill 043
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_044
+    name: China Skill 044
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_045
+    name: China Skill 045
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_046
+    name: China Skill 046
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_047
+    name: China Skill 047
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_048
+    name: China Skill 048
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_049
+    name: China Skill 049
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_050
+    name: China Skill 050
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_051
+    name: China Skill 051
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_052
+    name: China Skill 052
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_053
+    name: China Skill 053
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_054
+    name: China Skill 054
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_055
+    name: China Skill 055
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_056
+    name: China Skill 056
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_057
+    name: China Skill 057
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_058
+    name: China Skill 058
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_059
+    name: China Skill 059
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_060
+    name: China Skill 060
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_061
+    name: China Skill 061
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_062
+    name: China Skill 062
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_063
+    name: China Skill 063
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_064
+    name: China Skill 064
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_065
+    name: China Skill 065
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_066
+    name: China Skill 066
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_067
+    name: China Skill 067
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_068
+    name: China Skill 068
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_069
+    name: China Skill 069
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_070
+    name: China Skill 070
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_071
+    name: China Skill 071
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_072
+    name: China Skill 072
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_073
+    name: China Skill 073
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_074
+    name: China Skill 074
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_075
+    name: China Skill 075
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_076
+    name: China Skill 076
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_077
+    name: China Skill 077
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_078
+    name: China Skill 078
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_079
+    name: China Skill 079
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_080
+    name: China Skill 080
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_081
+    name: China Skill 081
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_082
+    name: China Skill 082
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_083
+    name: China Skill 083
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_084
+    name: China Skill 084
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_085
+    name: China Skill 085
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_086
+    name: China Skill 086
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_087
+    name: China Skill 087
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_088
+    name: China Skill 088
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_089
+    name: China Skill 089
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_090
+    name: China Skill 090
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_091
+    name: China Skill 091
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_092
+    name: China Skill 092
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_093
+    name: China Skill 093
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_094
+    name: China Skill 094
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_095
+    name: China Skill 095
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_096
+    name: China Skill 096
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_097
+    name: China Skill 097
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_098
+    name: China Skill 098
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_099
+    name: China Skill 099
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_100
+    name: China Skill 100
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_101
+    name: China Skill 101
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_102
+    name: China Skill 102
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_103
+    name: China Skill 103
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_104
+    name: China Skill 104
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_105
+    name: China Skill 105
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_106
+    name: China Skill 106
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_107
+    name: China Skill 107
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_108
+    name: China Skill 108
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_109
+    name: China Skill 109
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_110
+    name: China Skill 110
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_111
+    name: China Skill 111
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_112
+    name: China Skill 112
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_113
+    name: China Skill 113
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_114
+    name: China Skill 114
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_115
+    name: China Skill 115
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_116
+    name: China Skill 116
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_117
+    name: China Skill 117
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_118
+    name: China Skill 118
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_119
+    name: China Skill 119
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_120
+    name: China Skill 120
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_121
+    name: China Skill 121
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_122
+    name: China Skill 122
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_123
+    name: China Skill 123
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_124
+    name: China Skill 124
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_125
+    name: China Skill 125
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_126
+    name: China Skill 126
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_127
+    name: China Skill 127
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_128
+    name: China Skill 128
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_129
+    name: China Skill 129
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_130
+    name: China Skill 130
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_131
+    name: China Skill 131
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_132
+    name: China Skill 132
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_133
+    name: China Skill 133
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_134
+    name: China Skill 134
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_135
+    name: China Skill 135
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_136
+    name: China Skill 136
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_137
+    name: China Skill 137
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_138
+    name: China Skill 138
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_139
+    name: China Skill 139
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_140
+    name: China Skill 140
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_141
+    name: China Skill 141
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_142
+    name: China Skill 142
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_143
+    name: China Skill 143
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_144
+    name: China Skill 144
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_145
+    name: China Skill 145
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_146
+    name: China Skill 146
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_147
+    name: China Skill 147
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_148
+    name: China Skill 148
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_149
+    name: China Skill 149
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_150
+    name: China Skill 150
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_151
+    name: China Skill 151
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_152
+    name: China Skill 152
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_153
+    name: China Skill 153
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_154
+    name: China Skill 154
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_155
+    name: China Skill 155
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_156
+    name: China Skill 156
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_157
+    name: China Skill 157
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_158
+    name: China Skill 158
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_159
+    name: China Skill 159
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_160
+    name: China Skill 160
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_161
+    name: China Skill 161
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_162
+    name: China Skill 162
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_163
+    name: China Skill 163
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_164
+    name: China Skill 164
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_165
+    name: China Skill 165
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_166
+    name: China Skill 166
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_167
+    name: China Skill 167
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_168
+    name: China Skill 168
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_169
+    name: China Skill 169
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_170
+    name: China Skill 170
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_171
+    name: China Skill 171
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_172
+    name: China Skill 172
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_173
+    name: China Skill 173
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_174
+    name: China Skill 174
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_175
+    name: China Skill 175
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_176
+    name: China Skill 176
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_177
+    name: China Skill 177
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_178
+    name: China Skill 178
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_179
+    name: China Skill 179
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_180
+    name: China Skill 180
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_181
+    name: China Skill 181
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_182
+    name: China Skill 182
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_183
+    name: China Skill 183
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_184
+    name: China Skill 184
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_185
+    name: China Skill 185
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_186
+    name: China Skill 186
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_187
+    name: China Skill 187
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_188
+    name: China Skill 188
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_189
+    name: China Skill 189
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_190
+    name: China Skill 190
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_191
+    name: China Skill 191
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_192
+    name: China Skill 192
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_193
+    name: China Skill 193
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_194
+    name: China Skill 194
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_195
+    name: China Skill 195
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_196
+    name: China Skill 196
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_197
+    name: China Skill 197
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_198
+    name: China Skill 198
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_199
+    name: China Skill 199
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_200
+    name: China Skill 200
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_201
+    name: China Skill 201
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_202
+    name: China Skill 202
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_203
+    name: China Skill 203
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_204
+    name: China Skill 204
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_205
+    name: China Skill 205
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_206
+    name: China Skill 206
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_207
+    name: China Skill 207
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_208
+    name: China Skill 208
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_209
+    name: China Skill 209
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_210
+    name: China Skill 210
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_211
+    name: China Skill 211
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_212
+    name: China Skill 212
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_213
+    name: China Skill 213
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_214
+    name: China Skill 214
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_215
+    name: China Skill 215
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_216
+    name: China Skill 216
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_217
+    name: China Skill 217
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_218
+    name: China Skill 218
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_219
+    name: China Skill 219
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_220
+    name: China Skill 220
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_221
+    name: China Skill 221
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_222
+    name: China Skill 222
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_223
+    name: China Skill 223
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_224
+    name: China Skill 224
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_225
+    name: China Skill 225
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_226
+    name: China Skill 226
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_227
+    name: China Skill 227
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_228
+    name: China Skill 228
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_229
+    name: China Skill 229
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_230
+    name: China Skill 230
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_231
+    name: China Skill 231
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_232
+    name: China Skill 232
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_233
+    name: China Skill 233
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_234
+    name: China Skill 234
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_235
+    name: China Skill 235
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_236
+    name: China Skill 236
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_237
+    name: China Skill 237
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_238
+    name: China Skill 238
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_239
+    name: China Skill 239
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_240
+    name: China Skill 240
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_241
+    name: China Skill 241
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_242
+    name: China Skill 242
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_243
+    name: China Skill 243
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_244
+    name: China Skill 244
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_245
+    name: China Skill 245
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_246
+    name: China Skill 246
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_247
+    name: China Skill 247
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_248
+    name: China Skill 248
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_249
+    name: China Skill 249
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_250
+    name: China Skill 250
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_251
+    name: China Skill 251
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cn_252
+    name: China Skill 252
+    status: ACTIVE_SCAFFOLD

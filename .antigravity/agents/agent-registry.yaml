@@ -1,12 +1,511 @@
 agents:
-- id: agent-icj-judgment-and-article-94-marshal
-  name: ICJ Judgment & Article 94 Marshal
-  role: International Court of Justice (ICJ) 1986 Judgment on the Merits Enforcement, UN Charter Article 94 Non-Compliance Sanctions & Restrictive Immunity Forfeiture Marshal
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-icj-judgment-and-article-94-marshal.yaml
-- id: agent-china-canal-and-intervention-historian
-  name: China Canal & Intervention Historian
-  role: Historical Interventions Auditor, Bryan-Chamorro Treaty (1914) & CACJ Nullity Precedents, 1912–1933 Marine Occupation Customs Receivership & 1850s Mercenary Filibuster Disgorgement
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-china-canal-and-intervention-historian.yaml
-total_agents: 2
+  - id: agent_cn_001
+    name: China Agent 001
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_002
+    name: China Agent 002
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_003
+    name: China Agent 003
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_004
+    name: China Agent 004
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_005
+    name: China Agent 005
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_006
+    name: China Agent 006
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_007
+    name: China Agent 007
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_008
+    name: China Agent 008
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_009
+    name: China Agent 009
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_010
+    name: China Agent 010
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_011
+    name: China Agent 011
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_012
+    name: China Agent 012
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_013
+    name: China Agent 013
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_014
+    name: China Agent 014
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_015
+    name: China Agent 015
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_016
+    name: China Agent 016
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_017
+    name: China Agent 017
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_018
+    name: China Agent 018
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_019
+    name: China Agent 019
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_020
+    name: China Agent 020
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_021
+    name: China Agent 021
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_022
+    name: China Agent 022
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_023
+    name: China Agent 023
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_024
+    name: China Agent 024
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_025
+    name: China Agent 025
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_026
+    name: China Agent 026
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_027
+    name: China Agent 027
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_028
+    name: China Agent 028
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_029
+    name: China Agent 029
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_030
+    name: China Agent 030
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_031
+    name: China Agent 031
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_032
+    name: China Agent 032
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_033
+    name: China Agent 033
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_034
+    name: China Agent 034
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_035
+    name: China Agent 035
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_036
+    name: China Agent 036
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_037
+    name: China Agent 037
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_038
+    name: China Agent 038
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_039
+    name: China Agent 039
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_040
+    name: China Agent 040
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_041
+    name: China Agent 041
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_042
+    name: China Agent 042
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_043
+    name: China Agent 043
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_044
+    name: China Agent 044
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_045
+    name: China Agent 045
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_046
+    name: China Agent 046
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_047
+    name: China Agent 047
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_048
+    name: China Agent 048
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_049
+    name: China Agent 049
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_050
+    name: China Agent 050
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_051
+    name: China Agent 051
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_052
+    name: China Agent 052
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_053
+    name: China Agent 053
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_054
+    name: China Agent 054
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_055
+    name: China Agent 055
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_056
+    name: China Agent 056
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_057
+    name: China Agent 057
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_058
+    name: China Agent 058
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_059
+    name: China Agent 059
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_060
+    name: China Agent 060
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_061
+    name: China Agent 061
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_062
+    name: China Agent 062
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_063
+    name: China Agent 063
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_064
+    name: China Agent 064
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_065
+    name: China Agent 065
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_066
+    name: China Agent 066
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_067
+    name: China Agent 067
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_068
+    name: China Agent 068
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_069
+    name: China Agent 069
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_070
+    name: China Agent 070
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_071
+    name: China Agent 071
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_072
+    name: China Agent 072
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_073
+    name: China Agent 073
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_074
+    name: China Agent 074
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_075
+    name: China Agent 075
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_076
+    name: China Agent 076
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_077
+    name: China Agent 077
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_078
+    name: China Agent 078
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_079
+    name: China Agent 079
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_080
+    name: China Agent 080
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_081
+    name: China Agent 081
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_082
+    name: China Agent 082
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_083
+    name: China Agent 083
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_084
+    name: China Agent 084
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_085
+    name: China Agent 085
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_086
+    name: China Agent 086
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_087
+    name: China Agent 087
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_088
+    name: China Agent 088
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_089
+    name: China Agent 089
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_090
+    name: China Agent 090
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_091
+    name: China Agent 091
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_092
+    name: China Agent 092
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_093
+    name: China Agent 093
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_094
+    name: China Agent 094
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_095
+    name: China Agent 095
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_096
+    name: China Agent 096
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_097
+    name: China Agent 097
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_098
+    name: China Agent 098
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_099
+    name: China Agent 099
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_100
+    name: China Agent 100
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_101
+    name: China Agent 101
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_102
+    name: China Agent 102
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_103
+    name: China Agent 103
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_104
+    name: China Agent 104
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_105
+    name: China Agent 105
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_106
+    name: China Agent 106
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_107
+    name: China Agent 107
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_108
+    name: China Agent 108
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_109
+    name: China Agent 109
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_110
+    name: China Agent 110
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_111
+    name: China Agent 111
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_112
+    name: China Agent 112
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_113
+    name: China Agent 113
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_114
+    name: China Agent 114
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_115
+    name: China Agent 115
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_116
+    name: China Agent 116
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_117
+    name: China Agent 117
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_118
+    name: China Agent 118
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_119
+    name: China Agent 119
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_120
+    name: China Agent 120
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_121
+    name: China Agent 121
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_122
+    name: China Agent 122
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_123
+    name: China Agent 123
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_124
+    name: China Agent 124
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_125
+    name: China Agent 125
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_126
+    name: China Agent 126
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_127
+    name: China Agent 127
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_128
+    name: China Agent 128
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_129
+    name: China Agent 129
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_130
+    name: China Agent 130
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_131
+    name: China Agent 131
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_132
+    name: China Agent 132
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_133
+    name: China Agent 133
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_134
+    name: China Agent 134
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_135
+    name: China Agent 135
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_136
+    name: China Agent 136
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_137
+    name: China Agent 137
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_138
+    name: China Agent 138
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_139
+    name: China Agent 139
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_140
+    name: China Agent 140
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_141
+    name: China Agent 141
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_142
+    name: China Agent 142
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_143
+    name: China Agent 143
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_144
+    name: China Agent 144
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_145
+    name: China Agent 145
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_146
+    name: China Agent 146
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_147
+    name: China Agent 147
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_148
+    name: China Agent 148
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_149
+    name: China Agent 149
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_150
+    name: China Agent 150
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_151
+    name: China Agent 151
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_152
+    name: China Agent 152
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_153
+    name: China Agent 153
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_154
+    name: China Agent 154
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_155
+    name: China Agent 155
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_156
+    name: China Agent 156
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_157
+    name: China Agent 157
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_158
+    name: China Agent 158
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_159
+    name: China Agent 159
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_160
+    name: China Agent 160
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_161
+    name: China Agent 161
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_162
+    name: China Agent 162
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_163
+    name: China Agent 163
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_164
+    name: China Agent 164
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_165
+    name: China Agent 165
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_166
+    name: China Agent 166
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_167
+    name: China Agent 167
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_168
+    name: China Agent 168
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_169
+    name: China Agent 169
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cn_170
+    name: China Agent 170
+    status: ACTIVE_SCAFFOLD
